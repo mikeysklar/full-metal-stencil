@@ -17,6 +17,7 @@ Why metal business cards?
 * most of my PCBs are breakouts are small
 * they look good 
 
+
 Video
 ===
 ** Click Image to Watch **
@@ -40,13 +41,16 @@ Materials
 | [PCB Stencil Jig Feet](https://amzn.to/4i0Jrzc)           | 10    | Amazon |
 | [PCB Stencil Jig Knurled Nuts](https://amzn.to/3X5jerg)    | 10    | Amazon |
 
-![Screenshot](pics/stuffed.jpeg)
 
 Laser Settings
 ===
 | Power | Speed | Pass
 |:---:|:---:|:---:|
 | 80 | 600 | 220|
+
+
+![Screenshot](pics/stuffed.jpeg)
+
 
 Example PCBs
 ===
