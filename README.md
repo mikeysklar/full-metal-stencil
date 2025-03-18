@@ -1,7 +1,5 @@
 
-Video
-===
-[![Watch the video](pics/stencil.jpeg)](https://youtu.be/vPO3uMIyp_U?si=KMxxIIJ2tkyMDK75)
+![Screenshot](pics/stencil.jpeg)
 
 Full Metal Stencil
 ---
@@ -19,7 +17,12 @@ Why metal business cards?
 * most of my PCBs are breakouts are small
 * they look good 
 
-![Screenshot](pics/os-paste.jpeg)
+Video
+===
+** Click Image to Watch **
+
+[![Watch the video](pics/os-paste.jpeg)](https://youtu.be/vPO3uMIyp_U?si=KMxxIIJ2tkyMDK75)
+
 
 Materials
 ===
