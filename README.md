@@ -42,6 +42,12 @@ Materials
 
 ![Screenshot](pics/stuffed.jpeg)
 
+Laser Settings
+===
+| Power | Speed | Pass
+|:---:|:---:|:---:|
+| 80 | 600 | 220|
+
 Example PCBs
 ===
 I've used this stencil technique on these four different PCBs. Some are featured in the video for reference.
