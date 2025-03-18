@@ -1,36 +1,25 @@
 
+Video
+===
+[![Watch the video](pics/stencil.jpeg)](https://youtu.be/vPO3uMIyp_U?si=KMxxIIJ2tkyMDK75)
+
 Full Metal Stencil
 ---
 Use a fiber laser to convert clean aluminum business cards into PCB stencils quickly. 
 
-I've used mylar and brass to make PCB stencils. I've tried  with CNC and CO2 lasers. They all work, but this is faster, easier and yields higher quality results.
+I've used mylar and brass for PCB stencils. I've dialed-in settings with CNC and CO2 lasers. They all work, but this method yields faster, more reliable and higher quality results than my previous combinations.
 
 The downside? Fiber lasers are still relatively expensive.
 
 Why metal business cards? 
 
 * inexpensive ( $0.15 each ) 
+* just the right thickness ( 0.8mm )
 * stay flat ( brass rolls flip up )
 * most of my PCBs are breakouts are small
 * they look good 
 
-![Screenshot](pics/stencil-pcb.jpeg)
 ![Screenshot](pics/os-paste.jpeg)
-![Screenshot](pics/stuffed.jpeg)
-
-Video
-===
-[![Watch the video](pics/stencil.jpeg)](https://youtu.be/vPO3uMIyp_U?si=KMxxIIJ2tkyMDK75)
-
-
-Example PCBs
-===
-
-* [micro-chorder](https://github.com/mikeysklar/micro-chorder) - One handed chording keyboard which combines 4 I2C boards
-* [old-softie](https://github.com/mikeysklar/old-softie) -  3 soft silicon buttons I2C STEMMA
-* [5wayjoy](https://github.com/mikeysklar/5wayjoy) - 5 way tactile joystick I2C STEMMA
-* [qthub](https://github.com/mikeysklar/qthub) - 4 way multidirectional hub I2C STEMMA
-
 
 Materials
 ===
@@ -47,6 +36,17 @@ Materials
 | [PCB Stencil Jig Knobs](https://amzn.to/42TYsPh)         | 10    | Amazon |
 | [PCB Stencil Jig Feet](https://amzn.to/4i0Jrzc)           | 10    | Amazon |
 | [PCB Stencil Jig Knurled Nuts](https://amzn.to/3X5jerg)    | 10    | Amazon |
+
+![Screenshot](pics/stuffed.jpeg)
+
+Example PCBs
+===
+I've used this stencil technique on these four different PCBs. Some are featured in the video for reference.
+
+* [micro-chorder](https://github.com/mikeysklar/micro-chorder) - One handed chording keyboard which combines 4 I2C boards
+* [old-softie](https://github.com/mikeysklar/old-softie) -  3 soft silicon buttons I2C STEMMA
+* [5wayjoy](https://github.com/mikeysklar/5wayjoy) - 5 way tactile joystick I2C STEMMA
+* [qthub](https://github.com/mikeysklar/qthub) - 4 way multidirectional hub I2C STEMMA
 
 
 Acknowledgements
