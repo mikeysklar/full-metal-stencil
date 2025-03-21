@@ -12,7 +12,7 @@ The downside? Fiber lasers are still relatively expensive.
 Why metal business cards? 
 
 * inexpensive ( $0.15 each ) 
-* just the right thickness ( 0.8mm )
+* just the right thickness ( 0.18mm )
 * stay flat ( brass rolls flip up )
 * most of my PCBs are breakouts are small
 * they look good 
